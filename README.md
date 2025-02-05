@@ -3,19 +3,19 @@ manipulation, dashboard creation, and SQL query optimization. Each project folde
 
 **SQL Projects**
 
-1.[**Bike Rental Case Study**](https://github.com/ahmerhkhan/Data-Analytics-Portfolio/tree/main/SQL%20Projects/Bike%20Rental%20Case%20Study)
+1.[Bike Rental Case Study](https://github.com/ahmerhkhan/Data-Analytics-Portfolio/tree/main/SQL%20Projects/Bike%20Rental%20Case%20Study)
 Overview: This project involves analyzing a bike rental shop’s database. Tasks include calculating bike inventory by category, tracking customer memberships, generating pricing for discounted rentals, and calculating revenue from rentals and memberships across various time frames.
 Skills Used: SQL querying, aggregation, filtering, joins, case statements, date functions, and data analysis.
 
-2.[**Music Stores Case**](https://github.com/ahmerhkhan/Data-Analytics-Portfolio/tree/main/SQL%20Projects/Music%20Stores%20Case)
+2.[Music Stores Case](https://github.com/ahmerhkhan/Data-Analytics-Portfolio/tree/main/SQL%20Projects/Music%20Stores%20Case)
 Overview: In this project, I worked on a music store database to analyze sales and customer data. Key tasks included identifying top customers, determining popular music genres by country, and tracking spending on artists.
 Skills Used: SQL queries, joins, subqueries, group by, aggregate functions, and filtering.
 
-3. [**Retail SQL Analysis**](https://github.com/ahmerhkhan/Data-Analytics-Portfolio/tree/main/SQL%20Projects/Retail%20SQL%20Analysis)
+3.[Retail SQL Analysis](https://github.com/ahmerhkhan/Data-Analytics-Portfolio/tree/main/SQL%20Projects/Retail%20SQL%20Analysis)
 Overview: This project required analyzing a retail sales dataset. I examined customer orders, delivery statuses, and sales performance. Tasks included identifying products purchased, sales totals, and generating reports on customer activity.
 Skills Used: SQL querying, aggregation, filtering, joins, case statements, and reporting.
 
-4.[**Spotify Data Analysis**](https://github.com/ahmerhkhan/Data-Analytics-Portfolio/tree/main/SQL%20Projects/Spotify%20Data%20Analysis)
+4.[Spotify Data Analysis](https://github.com/ahmerhkhan/Data-Analytics-Portfolio/tree/main/SQL%20Projects/Spotify%20Data%20Analysis)
 Overview: This project analyzed Spotify’s music data, focusing on tracks, albums, and their metrics. Tasks included retrieving data on track streams, album performance, and using window functions to analyze energy levels and other attributes.
 Skills Used: SQL, window functions, aggregate functions, common table expressions (CTEs), and data analysis.
 
