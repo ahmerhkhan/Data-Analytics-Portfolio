@@ -27,11 +27,15 @@ Skills Used: Power Query, data modeling, DAX, Power BI dashboards, and visualiza
 
 2. [HR Attrition Dashboard](https://github.com/ahmerhkhan/Data-Analytics-Portfolio/tree/main/Power%20BI%20Projects/HR%20Attrition%20Dashboard)
 Overview: This Power BI dashboard analyzes employee attrition data, providing insights into trends, reasons for leaving, and retention strategies.
-Skills Used: Power Query, DAX, data cleaning, Power BI visualization, and report generation.
+Skills Used: Power Query, DAX, data cleaning and dashboard creation with visualization.
 
 3. [SuperStore Sales Dashboard](https://github.com/ahmerhkhan/Data-Analytics-Portfolio/tree/main/Power%20BI%20Projects/SuperStore%20Sales%20Dashboard)
 Overview: This project involves creating a Power BI dashboard to visualize sales data, including trends, regional performance, and profit analysis.
-Skills Used: Power Query, data modeling, DAX, dashboard creation, and visualization.
+Skills Used: Power Query, data modeling, DAX, and dashboard creation with visualization.
+
+4. [Netflix Content Dashboard](https://github.com/ahmerhkhan/Data-Analytics-Portfolio/tree/main/Power%20BI%20Projects/Netflix%20Content%20Dashboard)
+Overview: In this project, I cleaned a Netflix dataset using Power Query so I can visualize the data correctly. The dashboard showcased distribution on Netflix's content over the years,across geographies and in various genres.
+Skills Used: Power Query, data modeling, data cleaning, DAX, and dashboard creation with visualization.
 
 [**Excel Projects**](https://github.com/ahmerhkhan/Data-Analytics-Portfolio/tree/main/Excel%20Projects)
 
